@@ -1,6 +1,6 @@
 # Experiment 3: DML Commands
-## Name: KARUNIYA M
-## Reg.no:212222040068
+### Name:KARUNIYA M
+### Reg.no:212223240068
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
 
