@@ -1,6 +1,6 @@
 # Experiment 8: PL/SQL Cursor Programs
-## Name: KARUNIYA M
-## Reg.no: 212222040068
+### Name:KARUNIYA M
+### Reg.no:212223240068
 ## AIM
 To write and execute PL/SQL programs using cursors and exception handling to manage runtime errors effectively and display appropriate messages.
 
