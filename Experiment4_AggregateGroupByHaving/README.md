@@ -1,6 +1,6 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-## Name: KARUNIYA M
-## Reg.no: 212222040068
+### Name:KARUNIYA M
+### Reg.no:212223240068
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
