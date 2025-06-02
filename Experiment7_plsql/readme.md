@@ -1,6 +1,6 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
-## Name: KARUNIYA M
-## Reg.no: 212222040068
+### Name:KARUNIYA M
+### Reg.no:212223240068
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
